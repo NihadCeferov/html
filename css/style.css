@@ -1,0 +1,76 @@
+body {
+    font-family: "Poppins";
+    font-weight: 500;
+    margin: 0;
+}
+
+.container-full {
+    background-color: #1f0e9c;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.back-header {
+    width: 100%;
+    height: 87px;
+    background-color: transparent;
+    position: fixed;
+}
+
+header {
+    width: 100%;
+    position: fixed;
+    background-color: #1f0e9c;
+    opacity: 80%;
+    
+}
+
+.header-inline {
+    width: 70%;
+    margin: 0px auto;
+    opacity: 100% !important;
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar {
+    padding: 0;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar ul li {
+    list-style: none;
+    padding: 0 10px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration-line: none;
+}
+
+.sign-in button {
+    padding: 10px 25px;
+    font-family: "Poppins";
+    font-size: 17px;
+    font-weight: 500;
+    background-color: #0ab1e8;
+    border-radius: 25px;
+    border: none;
+    color: white;
+}
+
+.hecne {
+    height: 1000px;
+    background-color: yellow;
+    width: 100%;
+}
+
